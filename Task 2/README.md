@@ -59,8 +59,8 @@ While this is an introductory task, I tried to follow good embedded programming 
 
 ## Hardware Setup (Simulation)
 
-* **LED:** PA5 (on-board LED)
-* **ADC input:** ADC channel 0 (PA0)
+* **LED:** PA5
+* **ADC input:** ADC channel 0
 * **UART:** USART2
 
   * TX: PA2
